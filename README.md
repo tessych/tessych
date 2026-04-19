@@ -1,16 +1,19 @@
-## Hi there 👋
+# Привет! Я — tessych 👋
+### Junior Backend Developer (Go)
 
-<!--
-**tessych/tessych** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠 Мой стек технологий:
+*   **Языки:** Go (Golang), SQL
+*   **Фреймворки и библиотеки:** Gin / Fiber / Echo, GORM / sqlx
+*   **Базы данных:** PostgreSQL, Redis, MongoDB
+*   **Инфраструктура:** Docker, Docker Compose, Git, Nginx
+*   **Протоколы:** REST API, gRPC (изучаю)
+*   **Тестирование:** Unit-тесты (testify, mock)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📫 Как со мной связаться:
+*   **Telegram:** @vvatlon
+
+---
