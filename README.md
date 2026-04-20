@@ -55,7 +55,7 @@
 ---
 
 ### 🌐 Контакты и ссылки
-- **Сайт**: [tessych.github.io](https://tessych.github.io)
+- **Сайт**: [tessych.github.io](https://tessych.ru)
 - **GitHub**: [@tessych](https://github.com/tessych)
 
 <br/>
