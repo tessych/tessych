@@ -55,7 +55,7 @@
 ---
 
 ### 🌐 Контакты и ссылки
-- **Сайт**: [tessych.ru](https://tessych.cfd)
+- **Сайт**: [tessych.cfd](https://tessych.cfd)
 - **GitHub**: [@tessych](https://github.com/tessych)
 - **Telegram**: [@tessychlove](https://t.me/tessychlove)
 
